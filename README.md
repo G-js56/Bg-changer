@@ -9,7 +9,7 @@ change the background color using the buttons
 
 # live demo 
  
- cheak out live version of the app()
+ cheak out live version of the app(https://bg-changer-theta-three.vercel.app/)
 
 # technologies 
 
